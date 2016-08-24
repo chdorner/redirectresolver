@@ -24,3 +24,4 @@ http://en.wikipedia.org
 $ go build .
 $ ./redirectresolver --help
 ```
+
